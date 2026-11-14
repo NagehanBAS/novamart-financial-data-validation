@@ -250,3 +250,7 @@ It demonstrates how SQL can be used not only to calculate business metrics, but 
 **Tools:** SQLite · SQL · GitHub
 
 **Focus Areas:** Data Quality · Financial Analytics · JOIN Validation · Data Integrity · Retention Testing
+
+## Author
+
+**Nagehan Bas**
